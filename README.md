@@ -1,4 +1,4 @@
-# My-SQLite
+# My-SQLite3
 Repositório para guardar arquivos SQLite3 para estudos
 
 ```sql
