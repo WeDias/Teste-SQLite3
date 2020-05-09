@@ -1,5 +1,5 @@
 # My-SQLite3
-Repositório para guardar arquivos SQLite3 para estudos
+Repositório para guardar arquivos SQLite3 utilizados para estudos sobre a linguagem SQL
 
 ```sql
 CREATE TABLE ola_mundo(
